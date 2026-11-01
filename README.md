@@ -1,0 +1,17 @@
+# Top 15 TV Series 2000-2026
+
+1. Breaking Bad (2008-2013)
+2. Band of Brothers (2001)
+3. The Wire (2002-2008)
+4. Chernobyl (2019)
+5. Avatar: The Last Airbender (2005-2008)
+6. The Sopranos (1999-2007)
+7. Game of Thrones (2011-2019)
+8. The Last of Us (2023- )
+9. Better Call Saul (2015-2022)
+10. The Office (2005-2013)
+11. True Detective (2014- )
+12. The Pitt (2025- )
+13. Arcane (2021-2024)
+14. Dark (2017-2020)
+15. Six Feet Under (2001-2005)
